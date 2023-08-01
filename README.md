@@ -27,6 +27,7 @@ _Congratulations, you've completed this course and joined the world of developer
 Here's a recap of your accomplishments:
 
 - Ingore: Yan add something here
+
   
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
