@@ -26,6 +26,8 @@ _Congratulations, you've completed this course and joined the world of developer
 
 Here's a recap of your accomplishments:
 
+- Ingore: Yan add something here
+  
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
 - You merged a pull request.
@@ -38,7 +40,6 @@ If you'd like to make a profile README, use the quickstart instructions below or
 1. Make a new public repository with a name that matches your GitHub username.
 2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
 3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
 5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 
 Check out these resources to learn more or get involved:
